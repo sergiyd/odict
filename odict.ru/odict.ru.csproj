@@ -39,9 +39,8 @@
     <Reference Include="AjaxMin">
       <HintPath>..\..\..\..\..\..\..\..\NugetPackages\AjaxMin.4.97.4951.28483\lib\net40\AjaxMin.dll</HintPath>
     </Reference>
-    <Reference Include="DawgSharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\morpher3\DawgSharp\DawgSharp\bin\Release\DawgSharp.dll</HintPath>
+    <Reference Include="DawgSharp">
+      <HintPath>..\..\..\..\..\..\NugetPackages\DawgSharp.1.0.5\lib\net\DawgSharp.dll</HintPath>
     </Reference>
     <Reference Include="EntityFramework">
       <HintPath>..\..\..\..\..\..\..\..\NugetPackages\EntityFramework.6.1.0\lib\net40\EntityFramework.dll</HintPath>
